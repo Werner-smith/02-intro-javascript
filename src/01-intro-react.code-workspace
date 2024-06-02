@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "01-intro-react",
+			"path": "../../01-intro-react"
+		},
+		{
+			"name": "02-intro-javascript",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02-intro-javascript"
+	}
+}
